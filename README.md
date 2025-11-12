@@ -1,8 +1,2 @@
-# React-portfolio
-
-A boilrplate react portfolio to showcase your projects and work
-
-
-Dummy-portfolio link -> https://shloksomani.github.io/react-portfolio/
-
-![](test.gif)
+# portfolio-site
+A personal portfolio site to display my work and professional achievements. Portfolio website built with React to showcase my web development projects and skills.
